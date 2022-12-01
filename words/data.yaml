@@ -1,0 +1,134 @@
+# (^\S+:)\t([^\t]+)\t([^\t]+)(?:\t(.+))?
+# $1\n  title: $2\n  subt: $3\n  desc: $4
+account:
+  title: Акк (аккаунт)
+  subt: Жеке парақша
+  desc: Тут побольше текста описания про аккаунт
+boomer:
+  title: Бумер
+  subt: Аға буын
+  desc: Тут побольше описание про бумеров
+cash:
+  title: Кэш
+  subt: Ақша
+  desc: Тут побольше текста о деньгах
+chill:
+  title: Чилл (Релакс)
+  subt: Рахаттану, комфорт
+  desc: Тут о том как люди расслабляютс
+coming_out:
+  title: Каминг-аут
+  subt: Кенеттен ашық ой білдіру
+  desc:
+content:
+  title: Контент
+  subt: Бұл соңғы падаланушыға жеткен ақпарат
+  desc:
+crash:
+  title: Краш
+  subt: Сүйетін адам
+  desc:
+cringe:
+  title: Кринж
+  subt: Ұят, ыңғайсыз сезім
+  desc: Полная кринжатина - описание постыдной ситуации в которой ты не принимаешь участия.
+fake:
+  title: Фейк
+  subt: Жалған ақпарат
+  desc:
+fan:
+  title: Фан (фанат)
+  subt: Құмар жанкүйер
+  desc:
+frenzy:
+  title: Угар
+  subt: Бір нәрседен қатты күлу
+  desc:
+hate:
+  title: Хейт
+  subt: Қорлау (жек көру)
+  desc:
+hoodie:
+  title: Худи
+  subt: Толстовка
+  desc:
+human:
+  title: Чел
+  subt: Адам
+  desc:
+hype:
+  title: Хайп
+  subt: Кенеттен танымал болу (шумиха)
+  desc:
+info:
+  title: Инфа
+  subt: Ақпарат
+  desc:
+mood:
+  title: Муд
+  subt: Көңіл-күй
+  desc:
+music:
+  title: Музло
+  subt: Музыка
+  desc:
+pr:
+  title: Пиар (PR)
+  subt: Жарнама
+  desc:
+private_message:
+  title: ЛС
+  subt: Жеке чат (Личные сообщения)
+  desc:
+proof:
+  title: Пруф
+  subt: Дәлел
+  desc:
+random:
+  title: Рандом
+  subt: Кездейсоқ
+  desc:
+recommended:
+  title: Рек
+  subt: Ұсыным
+  desc:
+rofl:
+  title: Рофл
+  subt: Әзіл
+  desc:
+scam:
+  title: Скам
+  subt: Алаяқтық (мошенничество)
+  desc:
+skill:
+  title: Скилл
+  subt: Дағды (способность)
+  desc:
+sweatshirt:
+  title: Свитшот
+  subt: Жемпірдің бір түрі
+  desc:
+tg:
+  title: Тг (Телега)
+  subt: Телеграм
+  desc:
+top:
+  title: Топ
+  subt: Ең өзекті, ең жақсы, сәнді
+  desc:
+trash:
+  title: Трэш
+  subt: Сұмдық (trash аудармасы-қоқыс)
+  desc:
+trend:
+  title: Тренд
+  subt: Өзекті оқиға
+  desc:
+vibe:
+  title: Вайб
+  subt: Атмосфера
+  desc:
+zoomer:
+  title: Зумер
+  subt: Жаңа ұрпақ
+  desc:
